@@ -10,7 +10,7 @@ Through this project we are performing sentimental analysis of comments using sa
 5. Train the main model
 6. Analyse the results by comparing the models and select the best model for prediction
 
-Guide to execute the project: 
+### Steps to execute the project: 
 
 1. Download the ipynb file.
 2. This file already contains the results of sentimental analysis done to predict the quality and difficulty of scores.
