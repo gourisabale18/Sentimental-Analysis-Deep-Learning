@@ -1,4 +1,4 @@
-#### Sentimental-Analysis-Deep-Learning
+## Sentimental-Analysis-Deep-Learning
 
 Through this project we are performing sentimental analysis of comments using sample datasets of RateMyProfessors website. Our primary goal is to predict the quality and difficulty scores for professor's teaching based on the comments provided by students.
 
