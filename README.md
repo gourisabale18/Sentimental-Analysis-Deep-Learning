@@ -1,4 +1,14 @@
-# Sentimental-Analysis-Deep-Learning
+#### Sentimental-Analysis-Deep-Learning
+
+Through this project we are performing sentimental analysis of comments using sample datasets of RateMyProfessors website. Our primary goal is to predict the quality and difficulty scores for professor's teaching based on the comments provided by students.
+
+### Tasks we performed:
+1. Data Collection
+2. Data Preprocessing
+3. Word Emebeddings using glove and word2vec
+4. Split the datasets into training and testing sets
+5. Train the main model
+6. Analyse the results by comparing the models and select the best model for prediction
 
 Guide to execute the project: 
 
